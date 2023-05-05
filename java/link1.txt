@@ -1,0 +1,23 @@
+https://www.javaguides.net/2021/11/java-array-interview-questions-and-answers.html
+https://www.sourcecodeexamples.net/2021/08/free-react-js-projects.html
+https://www.studytonight.com/java-8/
+https://javatechonline.com/spring-boot-mvc-crud-example/
+https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
+https://www.knowledgefactory.net/p/reactjs-tutorial.html
+
+//java programs
+https://www.netjstech.com/2015/06/java-programs.html
+https://www.java-programs.thiyagaraaj.com/first_repeated_character_java_example_program.html
+https://javaconceptoftheday.com/java-interview-programs-with-solutions/
+https://javahungry.blogspot.com/2018/09/70-top-java-interview-programs-with-coding-solutions.html
+https://www.techgeeknext.com/angular/angular-interview-questions
+
+java interview
+https://javaconceptoftheday.com/concepts-comparison/
+https://javahungry.blogspot.com/2015/05/50-java-collections-interview-questions-and-answers.html
+
+js
+https://codedec.com/course/full-stack-mern-tutorial/
+
+rxjs
+https://www.techgeeknext.com/angular/angular-interview-questions
